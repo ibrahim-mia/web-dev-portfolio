@@ -22,6 +22,8 @@
     border-radius: 5px;
     font-weight: bold;
     border: none;
+    cursor: pointer;
+    
 
 }
 .text-center{
@@ -169,7 +171,7 @@ footer{
     display: flex;
     gap: 100px;
 }
-.footer-colum{
+.footer-column{
     width: 50%;
 
 }
